@@ -1,0 +1,8 @@
+C:\Users\softw\source\repos\DERS3ODEVİ\DERS3ODEVİ\bin\Debug\DERS3ODEVİ.exe.config
+C:\Users\softw\source\repos\DERS3ODEVİ\DERS3ODEVİ\bin\Debug\DERS3ODEVİ.exe
+C:\Users\softw\source\repos\DERS3ODEVİ\DERS3ODEVİ\bin\Debug\DERS3ODEVİ.pdb
+C:\Users\softw\source\repos\DERS3ODEVİ\DERS3ODEVİ\obj\Debug\DERS3ODEVİ.csproj.AssemblyReference.cache
+C:\Users\softw\source\repos\DERS3ODEVİ\DERS3ODEVİ\obj\Debug\DERS3ODEVİ.csproj.SuggestedBindingRedirects.cache
+C:\Users\softw\source\repos\DERS3ODEVİ\DERS3ODEVİ\obj\Debug\DERS3ODEVİ.csproj.CoreCompileInputs.cache
+C:\Users\softw\source\repos\DERS3ODEVİ\DERS3ODEVİ\obj\Debug\DERS3ODEVİ.exe
+C:\Users\softw\source\repos\DERS3ODEVİ\DERS3ODEVİ\obj\Debug\DERS3ODEVİ.pdb
